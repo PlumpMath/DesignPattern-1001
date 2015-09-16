@@ -29,7 +29,9 @@ namespace MainConsole
                 Console.WriteLine("请选择设计模式：");
                 foreach (var item in dicCache)
                 {
-                    Console.WriteLine(item.Key+"."+item.Value);
+                    //Console.WriteLine(Convert.ToInt32(item.Key)<0?"":item.Key+"."+item.Value);
+                    string id = Convert.ToInt32(item.Key) < 0 ? "" : item.Key + ".";
+                    Console.WriteLine(id+ item.Value);
                 }
                 string selPattern = "";
                 while (true)

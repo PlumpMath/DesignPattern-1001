@@ -8,3 +8,7 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Decorator.pdb
 D:\LiZhaoStudy\DesignPattern\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Decorator\obj\Debug\Decorator.dll
 D:\LiZhaoStudy\DesignPattern\Decorator\obj\Debug\Decorator.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Decorator.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Decorator.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Decorator\obj\Debug\Decorator.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Decorator\obj\Debug\Decorator.pdb

@@ -8,3 +8,7 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Composite.pdb
 D:\LiZhaoStudy\DesignPattern\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Composite\obj\Debug\Composite.dll
 D:\LiZhaoStudy\DesignPattern\Composite\obj\Debug\Composite.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Composite.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Composite.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.pdb

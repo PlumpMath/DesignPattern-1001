@@ -8,3 +8,7 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Stragety.pdb
 D:\LiZhaoStudy\DesignPattern\Stragety\obj\Debug\Stragety.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Stragety\obj\Debug\Stragety.dll
 D:\LiZhaoStudy\DesignPattern\Stragety\obj\Debug\Stragety.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Stragety.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Stragety.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Stragety\obj\Debug\Stragety.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Stragety\obj\Debug\Stragety.pdb

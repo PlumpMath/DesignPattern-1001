@@ -17,3 +17,7 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Singleton.pdb
 D:\LiZhaoStudy\DesignPattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Singleton\obj\Debug\Singleton.dll
 D:\LiZhaoStudy\DesignPattern\Singleton\obj\Debug\Singleton.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Singleton.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Singleton.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Singleton\obj\Debug\Singleton.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Singleton\obj\Debug\Singleton.pdb

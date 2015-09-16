@@ -8,3 +8,7 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Mediator.pdb
 D:\LiZhaoStudy\DesignPattern\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Mediator\obj\Debug\Mediator.dll
 D:\LiZhaoStudy\DesignPattern\Mediator\obj\Debug\Mediator.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Mediator.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Mediator.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.pdb

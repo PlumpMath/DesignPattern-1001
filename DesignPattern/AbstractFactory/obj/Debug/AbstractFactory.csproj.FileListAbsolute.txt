@@ -15,3 +15,7 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\AbstractFactory.pdb
 D:\LiZhaoStudy\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.dll
 D:\LiZhaoStudy\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\AbstractFactory.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\AbstractFactory.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

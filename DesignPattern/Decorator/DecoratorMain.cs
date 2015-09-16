@@ -9,7 +9,10 @@ namespace Decorator
     {
         public void Execute()
         {
-            
+            Person p = new Woman();
+            Necklace n = new Necklace(p);
+            Ring r = new Ring(n);
+            r.Wear();
         }
     }
 }
