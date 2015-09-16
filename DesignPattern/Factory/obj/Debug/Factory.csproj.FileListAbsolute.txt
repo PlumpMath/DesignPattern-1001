@@ -1,0 +1,17 @@
+D:\LiZhaoStudy\TempTest\DesignPattern\Factory\bin\Debug\Factory.dll
+D:\LiZhaoStudy\TempTest\DesignPattern\Factory\bin\Debug\Factory.pdb
+D:\LiZhaoStudy\TempTest\DesignPattern\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\TempTest\DesignPattern\MainConsole\bin\Debug\Factory.dll
+D:\LiZhaoStudy\TempTest\DesignPattern\MainConsole\bin\Debug\Factory.pdb
+D:\LiZhaoStudy\TempTest\DesignPattern\Factory\obj\Debug\Factory.dll
+D:\LiZhaoStudy\TempTest\DesignPattern\Factory\obj\Debug\Factory.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.pdb
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Factory.dll
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Factory.pdb
+D:\LiZhaoStudy\DesignPattern\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\Factory\obj\Debug\Factory.dll
+D:\LiZhaoStudy\DesignPattern\Factory\obj\Debug\Factory.pdb

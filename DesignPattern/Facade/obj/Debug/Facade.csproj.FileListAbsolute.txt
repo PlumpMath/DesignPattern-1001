@@ -1,0 +1,10 @@
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Facade.dll
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Facade.pdb
+D:\LiZhaoStudy\DesignPattern\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\Facade\obj\Debug\Facade.dll
+D:\LiZhaoStudy\DesignPattern\Facade\obj\Debug\Facade.pdb

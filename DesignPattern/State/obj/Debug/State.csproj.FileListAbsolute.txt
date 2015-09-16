@@ -1,0 +1,10 @@
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\State.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\State.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\State\obj\Debug\State.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\State\obj\Debug\State.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\State.dll
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\State.pdb
+D:\LiZhaoStudy\DesignPattern\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\State\obj\Debug\State.dll
+D:\LiZhaoStudy\DesignPattern\State\obj\Debug\State.pdb

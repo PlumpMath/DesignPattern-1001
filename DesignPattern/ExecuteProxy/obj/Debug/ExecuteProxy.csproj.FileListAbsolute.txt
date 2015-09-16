@@ -1,0 +1,15 @@
+D:\LiZhaoStudy\TempTest\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.dll
+D:\LiZhaoStudy\TempTest\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.pdb
+D:\LiZhaoStudy\TempTest\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.dll
+D:\LiZhaoStudy\TempTest\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.pdb
+D:\LiZhaoStudy\TempTest\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.pdb
+D:\LiZhaoStudy\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.dll
+D:\LiZhaoStudy\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.pdb
+D:\LiZhaoStudy\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.dll
+D:\LiZhaoStudy\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.pdb

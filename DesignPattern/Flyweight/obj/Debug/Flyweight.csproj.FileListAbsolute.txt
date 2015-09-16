@@ -1,0 +1,10 @@
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Flyweight.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Flyweight.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Flyweight\obj\Debug\Flyweight.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Flyweight\obj\Debug\Flyweight.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Flyweight.dll
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Flyweight.pdb
+D:\LiZhaoStudy\DesignPattern\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\Flyweight\obj\Debug\Flyweight.dll
+D:\LiZhaoStudy\DesignPattern\Flyweight\obj\Debug\Flyweight.pdb

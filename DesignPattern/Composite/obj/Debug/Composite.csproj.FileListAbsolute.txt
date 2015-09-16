@@ -1,0 +1,10 @@
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Composite.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\MainConsole\bin\Debug\Composite.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.dll
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.pdb
+D:\LiZhaoStudy\Demo\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Composite.dll
+D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Composite.pdb
+D:\LiZhaoStudy\DesignPattern\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\LiZhaoStudy\DesignPattern\Composite\obj\Debug\Composite.dll
+D:\LiZhaoStudy\DesignPattern\Composite\obj\Debug\Composite.pdb
