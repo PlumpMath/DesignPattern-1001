@@ -13,3 +13,8 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Proxy.pd
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Proxy\obj\Debug\Proxy.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Proxy\obj\Debug\Proxy.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Proxy.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Proxy.pdb
+G:\GitHub\DesignPattern\DesignPattern\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+G:\GitHub\DesignPattern\DesignPattern\Proxy\obj\Debug\Proxy.dll
+G:\GitHub\DesignPattern\DesignPattern\Proxy\obj\Debug\Proxy.pdb

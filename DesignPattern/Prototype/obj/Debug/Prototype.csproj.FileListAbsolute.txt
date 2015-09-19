@@ -21,3 +21,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototyp
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.pdb
+G:\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.dll
+G:\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.pdb

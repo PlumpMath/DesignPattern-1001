@@ -12,3 +12,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Vistor.d
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Vistor.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Vistor\obj\Debug\Vistor.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Vistor\obj\Debug\Vistor.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Vistor.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Vistor.pdb
+G:\GitHub\DesignPattern\DesignPattern\Vistor\obj\Debug\Vistor.dll
+G:\GitHub\DesignPattern\DesignPattern\Vistor\obj\Debug\Vistor.pdb

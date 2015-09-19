@@ -12,3 +12,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Bridge.d
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Bridge.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Bridge\obj\Debug\Bridge.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Bridge\obj\Debug\Bridge.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Bridge.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Bridge.pdb
+G:\GitHub\DesignPattern\DesignPattern\Bridge\obj\Debug\Bridge.dll
+G:\GitHub\DesignPattern\DesignPattern\Bridge\obj\Debug\Bridge.pdb

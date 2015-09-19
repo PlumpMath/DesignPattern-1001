@@ -12,3 +12,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Iterator
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Iterator.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Iterator\obj\Debug\Iterator.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Iterator\obj\Debug\Iterator.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Iterator.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Iterator.pdb
+G:\GitHub\DesignPattern\DesignPattern\Iterator\obj\Debug\Iterator.dll
+G:\GitHub\DesignPattern\DesignPattern\Iterator\obj\Debug\Iterator.pdb

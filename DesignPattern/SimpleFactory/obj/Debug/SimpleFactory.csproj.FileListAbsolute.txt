@@ -21,3 +21,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\SimpleFa
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\SimpleFactory.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\SimpleFactory.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\SimpleFactory.pdb
+G:\GitHub\DesignPattern\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.dll
+G:\GitHub\DesignPattern\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb

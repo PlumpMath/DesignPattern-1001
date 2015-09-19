@@ -12,3 +12,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Mediator
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Mediator.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Mediator.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Mediator.pdb
+G:\GitHub\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.dll
+G:\GitHub\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.pdb

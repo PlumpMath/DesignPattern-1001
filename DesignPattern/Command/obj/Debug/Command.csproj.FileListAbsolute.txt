@@ -12,3 +12,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Command.
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Command.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Command\obj\Debug\Command.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Command\obj\Debug\Command.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Command.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Command.pdb
+G:\GitHub\DesignPattern\DesignPattern\Command\obj\Debug\Command.dll
+G:\GitHub\DesignPattern\DesignPattern\Command\obj\Debug\Command.pdb

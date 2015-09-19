@@ -17,3 +17,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ExecuteProxy\bin\Debug\Execute
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.pdb
+G:\GitHub\DesignPattern\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.dll
+G:\GitHub\DesignPattern\DesignPattern\ExecuteProxy\bin\Debug\ExecuteProxy.pdb
+G:\GitHub\DesignPattern\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.dll
+G:\GitHub\DesignPattern\DesignPattern\ExecuteProxy\obj\Debug\ExecuteProxy.pdb

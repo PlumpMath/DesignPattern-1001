@@ -30,3 +30,11 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\MainCons
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ExecuteProxy.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ExecuteProxy.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\obj\x86\Debug\MainConsole.csprojResolveAssemblyReference.cache
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\MainConsole.exe.config
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\obj\x86\Debug\MainConsole.exe
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\obj\x86\Debug\MainConsole.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\MainConsole.exe
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\MainConsole.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ExecuteProxy.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ExecuteProxy.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\obj\x86\Debug\MainConsole.csprojResolveAssemblyReference.cache

@@ -12,3 +12,7 @@ D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Template
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Template.pdb
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Template\obj\Debug\Template.dll
 D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Template\obj\Debug\Template.pdb
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Template.dll
+G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Template.pdb
+G:\GitHub\DesignPattern\DesignPattern\Template\obj\Debug\Template.dll
+G:\GitHub\DesignPattern\DesignPattern\Template\obj\Debug\Template.pdb
