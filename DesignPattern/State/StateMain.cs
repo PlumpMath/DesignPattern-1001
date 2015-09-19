@@ -9,7 +9,8 @@ namespace State
     {
         public void Execute()
         {
-            
+            WashingMachine wm = new WashingMachine();
+            wm.WashingMachineExecute();
         }
     }
 }

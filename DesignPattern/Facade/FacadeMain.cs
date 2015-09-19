@@ -9,7 +9,9 @@ namespace Facade
     {
         public void Execute()
         {
-            
+            FacadeClass fs = new FacadeClass();
+            fs.Turn();
+            fs.Turn();
         }
     }
 }

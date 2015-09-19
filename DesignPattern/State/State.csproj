@@ -40,8 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DischargeWaterState.cs" />
+    <Compile Include="InflowWaterState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spin-dryState.cs" />
     <Compile Include="StateMain.cs" />
+    <Compile Include="TurnOffState.cs" />
+    <Compile Include="TurnOnState.cs" />
+    <Compile Include="WashingMachine.cs" />
+    <Compile Include="WashingMachineState.cs" />
+    <Compile Include="WashingState.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExecuteProxy\ExecuteProxy.csproj">

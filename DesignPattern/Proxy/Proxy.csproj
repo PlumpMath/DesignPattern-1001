@@ -40,8 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FriendProxy.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="ProxyMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RealBuyPerson.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExecuteProxy\ExecuteProxy.csproj">

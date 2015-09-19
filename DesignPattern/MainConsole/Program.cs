@@ -11,7 +11,7 @@ namespace MainConsole
     /// 作者：Icelove
     /// QQ：775696572
     /// 邮箱：icelove@live.cn
-    /// 欢迎与大家交流
+    /// 欢迎和大家交流
     /// </summary>
     class Program
     {
