@@ -9,7 +9,10 @@ namespace Command
     {
         public void Execute()
         {
-            
+            Receiver receiver = new Receiver();
+            ConcreteCommand cc = new ConcreteCommand(receiver);
+            Invoker invoker = new Invoker(cc);
+            invoker.cmd.Action();
         }
     }
 }
