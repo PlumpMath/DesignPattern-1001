@@ -40,6 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GoogleMap.cs" />
+    <Compile Include="GoogleSearch.cs" />
+    <Compile Include="GoogleTemplate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TemplateMain.cs" />
   </ItemGroup>

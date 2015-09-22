@@ -8,11 +8,11 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Facade.pdb
 D:\LiZhaoStudy\DesignPattern\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Facade\obj\Debug\Facade.dll
 D:\LiZhaoStudy\DesignPattern\Facade\obj\Debug\Facade.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.pdb
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.dll
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.pdb
 G:\GitHub\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.dll
 G:\GitHub\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Facade.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Facade\obj\Debug\Facade.pdb

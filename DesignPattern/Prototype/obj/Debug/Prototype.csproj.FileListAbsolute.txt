@@ -17,11 +17,11 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Prototype.pdb
 D:\LiZhaoStudy\DesignPattern\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Prototype\obj\Debug\Prototype.dll
 D:\LiZhaoStudy\DesignPattern\Prototype\obj\Debug\Prototype.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.pdb
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.dll
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.pdb
 G:\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.dll
 G:\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Prototype.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Prototype\obj\Debug\Prototype.pdb

@@ -8,11 +8,11 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Observer.pdb
 D:\LiZhaoStudy\DesignPattern\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Observer\obj\Debug\Observer.dll
 D:\LiZhaoStudy\DesignPattern\Observer\obj\Debug\Observer.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Observer.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Observer.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.pdb
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Observer.dll
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Observer.pdb
 G:\GitHub\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.dll
 G:\GitHub\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Observer.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Observer.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.pdb

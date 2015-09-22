@@ -22,11 +22,11 @@ namespace ExecuteProxy
                 object obj = Activator.CreateInstance(t);
                 mi.Invoke(obj, null);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 Console.WriteLine("是否继续执行？y/n");
                 if (Console.ReadLine().ToLower() == "n")
-                    throw new Exception();
+                    throw ex;
             }
         }
 

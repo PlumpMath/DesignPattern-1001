@@ -40,6 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aggregate.cs" />
+    <Compile Include="ConcreteAggregate.cs" />
+    <Compile Include="ConcreteIteraror.cs" />
+    <Compile Include="Iterator.cs" />
     <Compile Include="IteratorMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -8,11 +8,11 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Adapter.pdb
 D:\LiZhaoStudy\DesignPattern\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Adapter\obj\Debug\Adapter.dll
 D:\LiZhaoStudy\DesignPattern\Adapter\obj\Debug\Adapter.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Adapter\obj\Debug\Adapter.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Adapter\obj\Debug\Adapter.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Adapter.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Adapter.pdb
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Adapter.dll
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Adapter.pdb
 G:\GitHub\DesignPattern\DesignPattern\Adapter\obj\Debug\Adapter.dll
 G:\GitHub\DesignPattern\DesignPattern\Adapter\obj\Debug\Adapter.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Adapter.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Adapter.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Adapter\obj\Debug\Adapter.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Adapter\obj\Debug\Adapter.pdb

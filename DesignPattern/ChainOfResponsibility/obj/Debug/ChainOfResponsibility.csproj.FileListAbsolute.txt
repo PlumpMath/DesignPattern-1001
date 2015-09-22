@@ -8,11 +8,11 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\ChainOfResponsibility.pdb
 D:\LiZhaoStudy\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.dll
 D:\LiZhaoStudy\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ChainOfResponsibility.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ChainOfResponsibility.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ChainOfResponsibility.dll
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ChainOfResponsibility.pdb
 G:\GitHub\DesignPattern\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.dll
 G:\GitHub\DesignPattern\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ChainOfResponsibility.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\ChainOfResponsibility.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb

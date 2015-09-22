@@ -15,11 +15,11 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Factory.pdb
 D:\LiZhaoStudy\DesignPattern\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Factory\obj\Debug\Factory.dll
 D:\LiZhaoStudy\DesignPattern\Factory\obj\Debug\Factory.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.pdb
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.dll
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.pdb
 G:\GitHub\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.dll
 G:\GitHub\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Factory.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Factory\obj\Debug\Factory.pdb

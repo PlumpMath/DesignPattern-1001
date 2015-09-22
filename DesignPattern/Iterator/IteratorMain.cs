@@ -9,7 +9,13 @@ namespace Iterator
     {
         public void Execute()
         {
-            
+            Aggregate ca=new ConcreteAggregate();
+            Iterator iterator = ca.GetIterator();
+            while (iterator.MoveNext())
+            {
+                Console.WriteLine(iterator.GetCurrent());
+                iterator.Next();
+            }
         }
     }
 }

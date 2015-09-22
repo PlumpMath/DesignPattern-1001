@@ -17,11 +17,11 @@ D:\LiZhaoStudy\DesignPattern\MainConsole\bin\Debug\Builder.pdb
 D:\LiZhaoStudy\DesignPattern\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
 D:\LiZhaoStudy\DesignPattern\Builder\obj\Debug\Builder.dll
 D:\LiZhaoStudy\DesignPattern\Builder\obj\Debug\Builder.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Builder.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Builder.pdb
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.dll
-D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.pdb
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Builder.dll
 G:\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Builder.pdb
 G:\GitHub\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.dll
 G:\GitHub\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Builder.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\MainConsole\bin\Debug\Builder.pdb
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.dll
+D:\LiZhaoStudy\GitHub\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.pdb
