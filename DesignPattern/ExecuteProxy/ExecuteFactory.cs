@@ -7,17 +7,20 @@ using System.Reflection;
 
 namespace ExecuteProxy
 {
+    /// <summary>
+    /// 执行工厂
+    /// </summary>
     public class ExecuteFactory
     {
         /// <summary>
         /// 执行设计模式
         /// </summary>
-        /// <param name="PatternName">设计模式程序集名称</param>
-        public static void ExecPorxy(string PatternName)
+        /// <param name="PatternDllName">设计模式程序集名称</param>
+        public static void ExecPorxy(string PatternDllName)
         {
             try
             {
-                Type t = CreateExecPorxy(PatternName, PatternName + "Main").GetType();
+                Type t = CreateExecPorxy(PatternDllName, PatternDllName + "Main").GetType();
                 MethodInfo mi = t.GetMethod("Execute");
                 object obj = Activator.CreateInstance(t);
                 mi.Invoke(obj, null);
@@ -36,33 +39,33 @@ namespace ExecuteProxy
         /// <summary>
         /// 获取设计模式执行类
         /// </summary>
-        /// <param name="PatternName">设计模式的程序集名称</param>
-        /// <param name="PatternNameMain">设计模式中执行类名称</param>
+        /// <param name="PatternDllName">设计模式的程序集名称</param>
+        /// <param name="PatternMainClassName">设计模式中执行类名称</param>
         /// <returns>返回设计模式类的执行类</returns>
-        private static object CreateExecPorxy(string PatternName, string PatternNameMain)
+        private static object CreateExecPorxy(string PatternDllName, string PatternMainClassName)
         {
-            object ep = null;
+            object obj = null;
 
             if (htCache == null)
                 htCache = new Hashtable();
 
-            if (htCache.ContainsKey(PatternName))
+            if (htCache.ContainsKey(PatternDllName))
             {
-                ep = htCache[PatternName] as object;
+                obj = htCache[PatternDllName] as object;
             }
             else
             {
                 try
                 {
-                    ep = Assembly.Load(PatternName).CreateInstance(PatternName + "." + PatternNameMain) as object;
-                    if (ep == null)
+                    obj = Assembly.Load(PatternDllName).CreateInstance(PatternDllName + "." + PatternMainClassName) as object;
+                    if (obj == null)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("未找到此设计模式，请检查配置文件！");
                         Console.ForegroundColor = ConsoleColor.White;
                         throw new Exception();
                     }
-                    htCache.Add(PatternName, ep);
+                    htCache.Add(PatternDllName, obj);
                 }
                 catch (Exception)
                 {
@@ -70,9 +73,8 @@ namespace ExecuteProxy
                     Console.WriteLine("未找到此设计模式，请检查配置文件！");
                     Console.ForegroundColor = ConsoleColor.White;
                 }
-                //加入缓存
             }
-            return ep;
+            return obj;
         }
 
         ///// <summary>

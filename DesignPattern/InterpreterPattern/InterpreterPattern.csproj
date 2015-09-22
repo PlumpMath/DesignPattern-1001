@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{39FE1272-9458-453D-820B-FF89D9DB60FC}</ProjectGuid>
+    <ProjectGuid>{0A1C857A-B700-4FB7-9F39-A0989A948D33}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Command</RootNamespace>
-    <AssemblyName>Command</AssemblyName>
+    <RootNamespace>InterpreterPattern</RootNamespace>
+    <AssemblyName>InterpreterPattern</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,12 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Command.cs" />
-    <Compile Include="CommandMain.cs" />
-    <Compile Include="ConcreteCommand.cs" />
-    <Compile Include="Invoker.cs" />
+    <Compile Include="InterpreterPatternMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Receiver.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
